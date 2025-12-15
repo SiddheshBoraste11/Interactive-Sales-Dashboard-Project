@@ -1,6 +1,6 @@
 # Interactive-Sales-Dashboard
 
+• Built a dynamic Excel dashboard using pivot tables, slicers, and charts.
+• Analyzed regional and category-wise sales performance.
+• Automated KPI tracking to improve data-driven business decisions.
 
-An Excel-based interactive sales dashboard designed to analyze sales performance
-using charts, pivot tables, and slicers. The dashboard provides insights into revenue 
-trends, product performance, and regional sales to support data-driven decision-making.
